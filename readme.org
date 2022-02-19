@@ -1,0 +1,2 @@
+#+title: Personal Notebook/Zettelkasten
+This website, powered by [[github:org-roam/org-roam][Org-roam]], =Ox-publish=, and Tailwind CSS, is a collection of my personal notes. This does NOT include my normal blog posts, or my notes for campaigns or worldbuilding projects.

@@ -1,0 +1,7 @@
+#+TITLE: Sitemap for project notes
+
+- notes
+  - [[file:notes/my_org_mode_workflow.org][My Org-mode Workflow]]
+  - [[file:notes/org_mode_project_planning.org][Org Mode for Project Planning]]
+  - [[file:notes/org_mode_for_writers.org][Org-mode for Writers]]
+  - [[file:notes/org_roam_for_notes.org][Org-roam for Notes]]

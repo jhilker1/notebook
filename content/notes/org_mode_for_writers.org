@@ -1,0 +1,11 @@
+#+title: Org-mode for Writers
+#+setupfile:
+#+hugo_base_dir: ../
+#+hugo_section: notes/
+#+hugo_draft:  true 
+#+hugo_slug: org_mode_for_writers
+#+date: <2021-06-07 Mon 00:31>
+#+hugo_tags: orgmode writing emacs
+
+* Ricing Up Org-Mode
+Obviously looks are important to having a comfortable environment for working in.

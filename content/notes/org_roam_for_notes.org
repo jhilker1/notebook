@@ -1,0 +1,20 @@
+#+title: Org-roam for Notes
+#+setupfile:
+#+hugo_base_dir: ../
+#+hugo_section: notes/
+#+hugo_draft:  false
+#+hugo_slug: org_roam_for_notes
+#+date: <2021-06-07 Mon 00:42>
+#+hugo_tags: emacs orgmode notes 
+
+* Taking Notes
+My org-mode note-taking workflow consists of the following.
+1. Capture a note by running =org-roam-capture (SPC-n-r-c) in my config=.
+2. Tag that note with only a few things so that I can continue to review it later.
+3. After I review my inbox (as seen in [[file:2021-06-25-my_org_mode_workflow.org][My Org-mode Workflow]]), I try to add any relevant tags.
+
+* The Export Function
+I originally found this [[https://seds.nl/notes/ox_hugo_export_all_roam_to_hugo/][here]], but since it's helped me with exporting to hugo markdown for my website, I thought I'd share the link and code as well. All credit goes to the original author - I've simply edited the =#+setupfile:= keyword to be lowercase for myself so that I could keep it matching with the other parts of my preamble.
+
+
+

@@ -1,0 +1,11 @@
+(("el-get" . "9353309744e4f8a7c9b1adf22ec99536fb2146b0")
+ ("emacs-kv" . "721148475bce38a70e0b678ba8aa923652e8900e")
+ ("emacsmirror-mirror" . "36fe4252fdd52afcf1a805ebdc6474843012666a")
+ ("esxml" . "701ccc285f3748d94c12f85636fecaa88858c178")
+ ("gnu-elpa-mirror" . "2591e62b67453eca5ab64e34b4bf3ae727181492")
+ ("melpa" . "6836bd94e02dd18c0a865824e1b3f285905aefc4")
+ ("ox-plumhtml" . "23e856b775fbc1d4be69171c087e5bdab873fa82")
+ ("ox-slimhtml" . "72cffc4292c82d5f3a24717ed386a953862485d8")
+ ("straight.el" . "af5437f2afd00936c883124d6d3098721c2d306c")
+ ("use-package" . "a7422fb8ab1baee19adb2717b5b47b9c3812a84c"))
+:beta

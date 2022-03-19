@@ -1,0 +1,26 @@
+#+title: My Org-mode Workflow
+#+setupfile:
+#+hugo_base_dir: ../
+#+hugo_section: notes/
+#+hugo_draft:  false
+#+hugo_slug: my-org-mode-workflow
+#+hugo_tags: emacs gtd orgmode 
+#+hugo_categories: org_mode
+#+date: <2021-06-07 Mon 00:22>
+
+Org-mode is an incredibly powerful piece of software that comes with Emacs. Here's primarily how I use it for Getting Things Done. In later notes I'll describe how I use it for [[file:2021-06-25-org_roam_for_notes.org][note-taking]] and [[file:2021-06-25-org_mode_project_planning.org][project planning/management]].
+
+1. Capture a task to an inbox file with =org-capture=.
+2. At the end of the day, review the inbox file, and refile as appropriate.
+3. Do the task. If it takes longer than several  hours, log time as appropriate.
+4. Rinse and repeat.
+
+* Differences from GTD 
+Although my workflow is fairly similar to what is described in /Getting Things Done/, my workflow is mildly different.
+
+ 1. I usually use projects for exclusively software-related projects, although I also use it for any worldbuilding-related things I'm working on, whether the CSS for the website or a new idea for a setting or whatever.
+ 2. I don't set any deadlines unless I absolutely MUST have it done by a certain date (such as an assignment for a class, or a thing for work, if I had a job). Arbitrary deadlines are meaningless to me, and if I could ignore some (that I had set for myself) I feel like I would be more likely to ignore all the deadlines I had coming up.
+
+* For Taking Notes
+I use a package called org-roam for managing my general software notes. If it comes to a note for a particular project, I'll add that in the relevant project file.
+

@@ -1,0 +1,20 @@
+#+title: Org Mode for Project Planning 
+#+setupfile:
+#+hugo_base_dir: ../
+#+hugo_section: notes/
+#+hugo_draft:  false
+#+hugo_slug: org_mode_project_planning
+#+date: <2021-06-10 Thu 13:52> 
+
+I use org-mode for a lot. Here's how I plan projects with it. Side-note, most of my projects are software projects, instead of anything with a lot of tasks. However, I feel like this could be expanded to include anything like writing projects, etc.
+
+1. 1 file per project - this is so I can keep anything for one particular project in its own file.
+2. Include properties as needed. I have a brief background of the project (usually from the README for the project). I also set any properties in the header such as owner, contact info, etc. I also set up archiving in the file so that it's not going into the global archive I have.
+3. Include Tasks, Archive, Notes, and Log Headlines. This makes it so I can track the time spent and archive anything in the file. In addition, if I get some note I need to add for a project, I can quickly add it to the project notes.
+
+* Handling New Tasks
+1. When I [[file:2021-06-25-my_org_mode_workflow.org][review my inbox]], I will refile to the appropriate project as needed. I also might add a tag to remind myself what it's for.
+
+
+
+
